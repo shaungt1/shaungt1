@@ -16,14 +16,14 @@
 
 ### Latest Info:
 
-- 🔭 I’m currently working on RXJS API
-- 💻 I’m currently learning Computer Data Science at USF.
+- 🔭 I’m currently working on an API for AR localization Using Bayes.
+- 💻 I’m currently learning Computer Data Science at USF & Rasmussen.
 - 🚀 I’m looking to collaborate on with other content creators and developers.
 - 🤔 I’m looking for help with building a business AR application.
 - 💬 Ask me about Computers, Code, Women, Guitars, and Surfing.
 - 📫 How to reach me: [Email Me Here](shaun@webreactor.us)
-- 👾 Pronouns: Jedi Master
-- ⚡ Fun fact: I played guitar in a very poular band and played Warp tour in 2007
+- 👾 Pronouns: Jedi
+- ⚡ Fun fact: When I was in a band back in 2007 I got to play Warp Tour (lead guitar)!
 
 
 ## Code Languages and Tools:
@@ -73,7 +73,7 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
 <img align="left" alt="IPFS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ipfs/ipfs.png"/>
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
-
+<img align="left" alt="SAS" width="26px" src="https://avatars3.githubusercontent.com/u/5289877?s=280&v=4"/>
 
 <br/>
 
@@ -128,7 +128,7 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
 ---
 
 
-### Skillsets
+### My Applied Skillsets
 These are the topics of proficiency utilizing my relevant experience, technical expertise,
 and problem solving skills through academic and autodidactic acomplishments.
 
@@ -136,15 +136,19 @@ and problem solving skills through academic and autodidactic acomplishments.
 - [x] Electrical Engineering
 - [x] Data Science
 - [x] Machine Learning
+- [x] Deep Learning
+- [x] Mathematics & Statistical Theory
 - [x] Quantum Computational Science
 - [x] Enterprise Architecture
 - [x] Data Visulization
 - [x] Programming
+- [x] Scripting
 - [x] Academic Research
+
 
 <hr>
 
-
+> This is a summary and main focus as it pertains to my skills and abilities.
 
 ### Preferred Programming Languages 
 
@@ -176,6 +180,9 @@ and problem solving skills through academic and autodidactic acomplishments.
  - IndexDB
  - Couch DB
  - Pouch DB
+ - ReThink DB
+
+--- 
 
 
 <br />
