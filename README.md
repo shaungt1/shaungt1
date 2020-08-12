@@ -47,6 +47,8 @@
 
 <br/>
 
+---
+
 *If you are an employer or are seeking to utilize my skill sets please contact me at: shaun@webreactor.com* or view [my portfolio here ](https://github.com/shaungt1/Shaun-Pritchard-Portfolio)
 
 # About Myself: 
