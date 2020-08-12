@@ -73,11 +73,14 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
 <img align="left" alt="IPFS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ipfs/ipfs.png"/>
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
-<img align="left" alt="SAS" width="26px" src="https://avatars3.githubusercontent.com/u/5289877?s=280&v=4"/>
+<img align="left" alt="SAS" width="26px" src="https://avatars3.githubusercontent.com/u/5289877?s=280&v=4"/><br />
+
 
 <br/>
+<br/>
 
----
+<hr>
+
 
 *If you are an employer or are seeking to utilize my skill sets please contact me at: shaun@webreactor.com* or view [my portfolio here ](https://github.com/shaungt1/Shaun-Pritchard-Portfolio)
 
