@@ -3,7 +3,7 @@
 <!--
 **shaungt1/shaungt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### 📢 Conenct with me here!:
+###### 📢 Conenct with me here!
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Shaun Pritchard | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -12,6 +12,7 @@
 [<img align="left" alt="Shaun Pritchard | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Shaun Pritchard | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+<br />
 
 ### Latest Info:
 
@@ -25,7 +26,7 @@
 - ⚡ Fun fact: I played guitar in a very poular band and played Warp tour in 2007
 
 
-## Code Languages and Tool Proficiency:
+## Code Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -46,11 +47,14 @@
 
 <br/>
 
+*If you are an employer or are seeking to utilize my skill sets please contact me at: shaun@webreactor.com* or view [my portfolio here ](https://github.com/shaungt1/Shaun-Pritchard-Portfolio)
+
+# About Myself: 
+
+Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur working toward my (MCS) Masters in Data Science. After, which I will pursue my Ph.D. in quantum computational mathematics. I have a bachelor's degree in Computer Science & Data Analytics. I'm based in Tampa Florida, I have authored 2 books, developed Web, native, and IoT applications. I have helped work on some prestigious developments and internships (Listed in my resume). I have a passion for data, science, math, programming, and physics. Especially; quantum computational science, control theory, and convex optimization algorithms. My goal is to work on fault tolerance systems for quantum reversible circuits for IBM or Microsoft or on optimization algorithms for Space X. I love Space X and the innovations constantly being employed. I also am very interested in joining teams such as IBM and Microsoft who are at the forefront of quantum supremacy. I hope to be apart of their teams or other companies that employ diverse concepts as such, allowing me to utilize my skillsets and grow as a computer scientist. I also love to read, play guitar, and surf. I like to create content and teach others the things I have learned. I like to help people and help simplify the complexity of abstract topics to make them easy to understand.
+
 ---
 
-
-
----
 
 ### 📘 My Personal Business & Web Apps
 
@@ -62,6 +66,7 @@
 
 ---
 
+
 ###  👽 Favorite Inspirational Quotes:
 - “We can not solve our problems with the same level of thinking that created them.” – Albert Einstein
 - “A problem well stated is a problem half solved.” – John Dewey
@@ -72,7 +77,7 @@
 
 ---
 
-[Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
+<!--TODO LINK UP ALL DICTIONARIES TO LINKES URLS AND CHANNELS-->
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START 
@@ -85,6 +90,7 @@
 
 ---
 
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
@@ -96,11 +102,7 @@
 
 
 
-*If you are an employer or are seeking to utilize my skill sets please contact me at: shaun@webreactor.com* or view my portfolio here https://github.com/shaungt1/Shaun-Pritchard-Portfolio
 
-# About Myself: 
-
-Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur working toward my (MCS) Masters in Data Science. After, which I will pursue my Ph.D. in quantum computational mathematics. I have a bachelor's degree in Computer Science & Data Analytics. I'm based in Tampa Florida, I have authored 2 books, developed Web, native, and IoT applications. I have helped work on some prestigious developments and internships (Listed in my resume). I have a passion for data, science, math, programming, and physics. Especially; quantum computational science, control theory, and convex optimization algorithms. My goal is to work on fault tolerance systems for quantum reversible circuits for IBM or Microsoft or on optimization algorithms for Space X. I love Space X and the innovations constantly being employed. I also am very interested in joining teams such as IBM and Microsoft who are at the forefront of quantum supremacy. I hope to be apart of their teams or other companies that employ diverse concepts as such, allowing me to utilize my skillsets and grow as a computer scientist. I also love to read, play guitar, and surf. I like to create content and teach others the things I have learned. I like to help people and help simplify the complexity of abstract topics to make them easy to understand.
 
 ### Topics of skillsets shown:
 These are the topics of proficiency utilizing my relevant experience, technical expertise,
