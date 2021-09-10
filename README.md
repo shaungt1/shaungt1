@@ -86,18 +86,23 @@
 
 # About Myself: 
 
-Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur working toward my (MCS) Masters in Data Science. After, which I will pursue my Ph.D. in quantum computational mathematics. I have a bachelor's degree in Computer Science & Data Analytics. I'm based in Tampa Florida, I have authored 2 books, developed Web, native, and IoT applications. I have helped work on some prestigious developments and internships (Listed in my resume). I have a passion for data, science, math, programming, and physics. Especially; quantum computational science, control theory, and convex optimization algorithms. My goal is to work on fault tolerance systems for quantum reversible circuits for IBM or Microsoft or on optimization algorithms for Space X. I love Space X and the innovations constantly being employed. I also am very interested in joining teams such as IBM and Microsoft who are at the forefront of quantum supremacy. I hope to be apart of their teams or other companies that employ diverse concepts as such, allowing me to utilize my skillsets and grow as a computer scientist. I also love to read, play guitar, and surf. I like to create content and teach others the things I have learned. I like to help people and help simplify the complexity of abstract topics to make them easy to understand.
+I am currently a graduate student in Artificial Intelligence at Florida Atlantic University, and I'm an inventor, software engineer, author, DAV, and entrepreneur. As a Tampa-based software developer, I love coding and creating Web, native, and IoT embedded system applications. (Listed in my resume) I have helped with some prestigious developments and internships. I am passionate about AI, data, science, math, programming, and physics. Particularly; artificial intelligence, quantum computing, control theory, and convex optimization algorithms (fun stuff). I want to use my skills to solve business problems and problems related to my passion. 
 
+The problems I'm most passionate about include artificial intelligence applications in deep space, progress for humanity, oceanography, sharks, and state security. 
+
+In addition to reading, guitar playing, and surfing, I also love to travel. I enjoy creating content and sharing what I have learned with others. I enjoy helping people and simplifying complex abstract concepts to make them more understandable. 
+
+If we can put our minds together, please do not hesitate to contact me. I'm always open to meeting new like-minded hackers and scientists. 
 ---
 
 
 ### 📘 My Personal Business & Web Apps
 
 - [Web Reactor (Local Tech company) - ](https://webreactor.us/)
-- [Dev Reactor (Online courseware) - ](https://devreactor.pro)
-- [DevSkywalker (Portfolio) -] (https://github.com/shaungt1/Shaun-Pritchard-Portfolio)
-- [Beach-Scapes (handmade Beach decor) - ](https://beach-scapes.com/)
-- [Drive Guardian (Inventions, IoT) - ](https://webreactor.us/)
+- [My Creator Website - ](https://shaunp.live)
+- [My Work & Code (Github Portfolio) -] (https://github.com/shaungt1/Shaun-Pritchard-Portfolio)
+- [Portfolio Resume CV - ](https://shaunpritchard.net/)
+
 
 ---
 
