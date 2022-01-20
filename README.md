@@ -16,14 +16,14 @@
 
 ### Latest Info:
 
-- 🔭 I’m currently working on an API for AR localization Using Bayes.
-- 💻 I’m currently learning Computer Data Science at USF & Rasmussen.
-- 🚀 I’m looking to collaborate on with other content creators and developers.
-- 🤔 I’m looking for help with building a business AR application.
-- 💬 Ask me about Computers, Code, Women, Guitars, and Surfing.
-- 📫 How to reach me: [Email Me Here](shaun@webreactor.us)
-- 👾 Pronouns: Jedi
-- ⚡ Fun fact: When I was in a band back in 2007 I got to play Warp Tour (lead guitar)!
+- 🔭 I’m currently working on an new influencer tech start-up.
+- 💻 I’m currently learning Artificail Intellgence at FAU.
+- 🚀 I’m looking to collaborate on with other creators and engineers.
+- 🤔 I’m looking for strategic partner for the startup.
+- 💬 Ask me about A.I
+- 📫 How to reach me: [Email Me Here](shaunpritchard1@gmail.com)
+- 👾 Pronouns: Jedi, Apache Helicoptor, DevSkywalker
+- ⚡ Fun fact: I was in a band that toured back in 2007 (lead guitar)!
 
 
 ## Code Languages and Tools:
