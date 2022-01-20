@@ -201,11 +201,11 @@ and problem solving skills through academic and autodidactic acomplishments.
 
 <!-- dictonaries-->
 [website]: https://webreactor.us
-[twitter]: https://twitter.com/SimpleStupid0
+[twitter]: https://twitter.com/shaunpx1
 [youtube]: https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw/
-[instagram]: https://www.instagram.com/shaun.pritchard1/
+[instagram]: https://www.instagram.com/ShaunPX1
 [linkedin]: https://www.linkedin.com/in/shaunpritchard1/
-[facebook]: https://www.facebook.com/shaunpritchardlive
+[facebook]: https://www.facebook.com/shaunPX1
 
 
 <!-- delete when profile readme is finished
