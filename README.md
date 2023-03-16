@@ -16,10 +16,10 @@
 
 ### Latest Info:
 
-- 🔭 I’m currently working on an new influencer tech start-up.
+- 🔭 I’m currently working as Senior software engineer.
 - 💻 I’m currently learning Artificail Intellgence at FAU.
 - 🚀 I’m looking to collaborate on with other creators and engineers.
-- 🤔 I’m looking for strategic partner for the startup.
+- 🤔 I love building 3D enviroments with Three FIber and Cesium.
 - 💬 Ask me about A.I
 - 📫 How to reach me: [Email Me Here](shaunpritchard1@gmail.com)
 - 👾 Pronouns: Jedi, Apache Helicoptor, DevSkywalker
