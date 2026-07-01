@@ -16,11 +16,11 @@
 
 ### Latest Info:
 
-- 🔭 I’m currently working as Senior software engineer.
-- 💻 I’m currently learning Artificail Intellgence at FAU.
+- 🔭 I’m currently working as Senior & Lead AI Engineer.
+- 💻 I’m currently building the future in AI.
 - 🚀 I’m looking to collaborate on with other creators and engineers.
-- 🤔 I love building 3D enviroments with Three FIber and Cesium.
-- 💬 Ask me about A.I
+- 🤔 I love building 3D enviroments with Three FIber and Cesium and AI.
+- 💬 AI is not evil or bad people are.
 - 📫 How to reach me: [Email Me Here](shaunpritchard1@gmail.com)
 - 👾 Pronouns: Jedi, Apache Helicoptor, DevSkywalker
 - ⚡ Fun fact: I was in a band that toured back in 2007 (lead guitar)!
@@ -86,7 +86,7 @@
 
 # About Myself: 
 
-I am currently a graduate student in Artificial Intelligence at Florida Atlantic University, and I'm an inventor, software engineer, author, DAV, and entrepreneur. As a Tampa-based software developer, I love coding and creating Web, native, and IoT embedded system applications. (Listed in my resume) I have helped with some prestigious developments and internships. I am passionate about AI, data, science, math, programming, and physics. Particularly; artificial intelligence, quantum computing, control theory, and convex optimization algorithms (fun stuff). I want to use my skills to solve business problems and problems related to my passion. 
+I am M.S. Graduate and PhD student in Artificial Intelligence and Computer Science at Florida Atlantic University, and I'm an inventor, software engineer, author, DAV, and entrepreneur. As a Tampa-based software developer, I love coding and creating Web, native, and IoT embedded system applications. (Listed in my resume) I have helped with some prestigious developments and internships. I am passionate about AI, data, science, math, programming, and physics. Particularly; artificial intelligence, quantum computing, control theory, and convex optimization algorithms (fun stuff). I want to use my skills to solve business problems and problems related to my passion. 
 
 The problems I'm most passionate about include artificial intelligence applications in deep space, progress for humanity, oceanography, sharks, and state security. 
 
